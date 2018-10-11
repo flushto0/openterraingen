@@ -11,6 +11,7 @@ __TODO__
 3. Add a whole bunch of terrain generation techniques
 4. Design some sort of flowchart or tree system for output manipulation (?)
 5. Use OpenGL to generate a bitmap or 3d model of terrain, and then get texture maps or shaders on the mode/map
-6. Probably a lot more!
+6. Allow the user to designate a 2D volume of the inifinitely-generated terrain for heightmap export.
+7. A lot more! Like creating an island or crater out of the volume, some kind of preview system, etc.
 
 This is just the beginning. Feel free to contribute to the project, or fork it for your own.
